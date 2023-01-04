@@ -11,6 +11,3 @@ This repository includes the code that the team utilized to play the board game.
 ### What is the "pattern mini game"?
 
 For the pattern game you will be shown a pattern. You will then be shown the same pattern, but all the LEDs will shut off at a random point. At this point you are supposed to guess the next color in the pattern by pressing the button corresponding to that color LED. If you win, the LEDs will flash one at a time through all the colors, if you lose, all the LEDs will flash at the same time twice.
-
-Image of the board:
-![image](https://user-images.githubusercontent.com/89400862/210665979-075f742b-05ea-4a68-a90a-f13fcddad16e.png)
